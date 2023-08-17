@@ -1,0 +1,22 @@
+.container{
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px; /* Add some padding to the header */
+  
+}
+
+.appTitle {
+  font-size: 30px;
+  color: rgb(0, 0, 0); /* Adjust color as needed */
+}
+
+.coolDude {
+  width: 100px; /* Set the width to match the font size of the title */
+  height: 100px; /* Set the height to match the font size of the title */
+}
